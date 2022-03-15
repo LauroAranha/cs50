@@ -1,3 +1,5 @@
+//Simple program to print hello + an input
+
 #include <stdio.h>
 #include <cs50.h>
 
